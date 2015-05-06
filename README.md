@@ -7,7 +7,7 @@ jquery.scrollTo package based on natestrauser's original build, packaged with th
      
 #### how-to
 
-    https://github.com/flesler/jquery.scrollTo
+https://github.com/flesler/jquery.scrollTo
 
 #### thanks
 
