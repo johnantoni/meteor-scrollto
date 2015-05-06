@@ -1,7 +1,7 @@
 Package.describe({
   name: 'johnantoni:meteor-scrollto',
-  summary: 'jquery.scrollTo package based on natestrausers original build, packaged with the latest 2.0 release',
-  version: '0.0.1',
+  summary: 'jquery.scrollTo package based on natestrausers original build, packaged with the latest 2.x release',
+  version: '0.0.2',
   git: 'https://github.com/johnantoni/meteor-scrollto',
   documentation: 'README.md'
 });
